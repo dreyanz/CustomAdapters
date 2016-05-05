@@ -1,0 +1,2 @@
+# CustomAdapters
+Simple
